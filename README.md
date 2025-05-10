@@ -1,2 +1,2 @@
 # chatbot-assist-python
-Chatbot para tirar dúvidas sobre a documentação do Python
+Chatbot para tirar dúvidas sobre a linguagem de programação Python
